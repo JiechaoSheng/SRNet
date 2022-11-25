@@ -30,7 +30,7 @@ consumption and improve denoising performance, especially in terms of reconstruc
 #### Test_SRNet_color.py
 
 ### Training datasets 
-#### The training datasets of the gray noisy images and color noisy images are downloaded at https://www.aliyundrive.com/s/1Nt5wk29n7C
+#### The training datasets of the gray noisy images and color noisy images are downloaded at https://pan.baidu.com/s/1dQ63Xf3VjEw74nVAcAz5Pw?pwd=atb5 
 
 ### If you want to cite this paper, please refer to the following format
 #### Sheng J, Lv G, Wang Z, et al. SRNet: Sparse representation-based network for image denoising[J]. Digital Signal Processing, 2022, 130: 103702.
