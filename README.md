@@ -9,7 +9,7 @@ network (SRNet) is proposed by embedding the convolutional neural network (CNN) 
 subnetworks are designed with the multiscale residual block (MSR-block) to model the updating of sparse coefficient and image, respectively. The experimental results show that compared with the traditional sparse representation denoising methods, the proposed method can significantly reduce time
 consumption and improve denoising performance, especially in terms of reconstructing textures. The PyTorch code and models of the proposed SRNet can be released at https://github.com/JiechaoSheng/SRNet.
 
-## Requirements (Keras)
+## Requirements (Pytorch)
 ### Pytorch 1.9.1 
 ### Numpy 
 ### Opencv 3
