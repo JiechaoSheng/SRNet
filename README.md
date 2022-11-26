@@ -17,14 +17,8 @@ consumption and improve denoising performance, especially in terms of reconstruc
 ### Cuda 11.1
 ### Cudnn 7.5
 
-### Training for gray noisy images
-### Train_SRNet.py
-
 ### Test for gray noisy images
 ### Test_SRNet.py 
-
-### Training for color noisy images
-### Train_SRet_color.py
 
 ### Test for color noisy images
 #### Test_SRNet_color.py
