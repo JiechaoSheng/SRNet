@@ -24,7 +24,7 @@ consumption and improve denoising performance, especially in terms of reconstruc
 #### Test_SRNet_color.py
 
 ## The code and dataset：https://pan.baidu.com/s/12aPmblrHapSn375O_uxC0g?pwd=4ah7   password：4ah7
+## Thank Jian Zhang for providing the code of ISTA-Net: https://github.com/jianzhangcs/ISTA-Net
 
-
-### If you want to cite this paper, please refer to the following format
+### If you find our code helpful in your resarch or work, please cite our paper
 #### Sheng J, Lv G, Wang Z, et al. SRNet: Sparse representation-based network for image denoising[J]. Digital Signal Processing, 2022, 130: 103702.
